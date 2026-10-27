@@ -1,0 +1,3 @@
+# Prompt 00 — audyt repo (wklej do Codexa)
+
+Pracuj w `C:\GitHub\Projects\Osobisty_Copilot`. Najpierw git status/branch/log i wypisz strukturę. Niczego nie usuwaj i nie nadpisuj. Przeczytaj dokumentację dostarczoną w `dokumentacja/`. Celem jest szybkie lokalne MVP do zadania mentora: 50 produktów → 10 linków AliExpress. Jeśli repo puste: zaproponuj i zastosuj Python + Streamlit + SQLite. Jeśli ma istniejący działający stack: utrzymaj go. Zakończ zwięzłym raportem, instrukcją uruchomienia i listą 3 następnych działań. Nie twórz jeszcze integracji ani zaawansowanego UI; minimum plików, minimum testów, bez długiego audytu.

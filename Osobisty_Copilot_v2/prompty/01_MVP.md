@@ -1,0 +1,3 @@
+# Prompt 01 — działający katalog 50 produktów
+
+Implementuj działające lokalne MVP zgodnie z `README.md`, `dokumentacja/MODEL_DANYCH.md` i `dokumentacja/AKCEPTACJA.md`. Jeden ekran: szybkie dodawanie URL, tytułu, kategorii, notatki, ceny (waluta), wysyłki, daty obserwacji; tabela z filtrami, edycją/usunięciem po potwierdzeniu, licznikiem `X/50`, importem/eksportem CSV i JSON, trwałym SQLite. Zachowuj oryginalne URL. Bez scraping API, kont użytkowników, Dockera, AI, zdalnej bazy, nadmiernego CSS. UI po polsku. Test smoke: add/restart/export/import/duplicates. Zrób 1 sensowny commit tylko ze swoimi zmianami, jeśli working tree był czysty; inaczej zgłoś i nie mieszaj zmian.
